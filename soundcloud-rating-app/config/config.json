@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "RATING-SONG-APP",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+  "username": "root",
+  "password": null,
+  "database": "database_test",
+  "host": "127.0.0.1",
+  "dialect": "mysql",
+  "operatorsAliases": false
+  },
+  "production": {
+  "username": "ffcuiiyjalxmkh",
+  "password": "288f21e39d3ee7cb9dc18c5d386382d9b0f0972fd4f9ff5b8d2feb8812f90351",
+  "database": "dej0j2h39na957",
+  "host": "ec2-54-83-55-122.compute-1.amazonaws.com",
+  "dialect": "postgres"
+  }
+}

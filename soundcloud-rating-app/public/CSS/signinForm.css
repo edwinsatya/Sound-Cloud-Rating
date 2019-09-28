@@ -1,0 +1,22 @@
+.container {
+    width: 30%;
+    margin-top: 9%;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.3);
+    padding: 40px;
+}
+
+.header {
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 8px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body {
+    background-color: white;
+}
+
+button {
+    width: 49%;
+}
